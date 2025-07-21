@@ -1,0 +1,12 @@
+# Este arquivo define os proprietários do código para a organização.
+# Eles serão automaticamente solicitados para revisão em PRs que afetem seus caminhos.
+
+# Todos os arquivos na raiz e subdiretórios
+# * @cabraldasilvac
+
+# Se você tiver equipes no GitHub, pode atribuí-las:
+# /docs/ @sua-organizacao/equipe-documentacao
+# /src/backend/ @sua-organizacao/equipe-backend
+
+# Ou usuários específicos para caminhos específicos:
+# /src/frontend/ @outro_usuario_github
