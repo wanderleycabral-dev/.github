@@ -14,10 +14,14 @@ Uma descrição clara e concisa das alterações feitas.
 
 Por favor, marque a opção relevante:
 
-- [ ] Bug fix (correção de um problema)
-- [ ] Nova funcionalidade (adição de um novo recurso)
-- [ ] Melhoria (refatoração, otimização, etc.)
-- [ ] Documentação (apenas alterações na documentação)
+- [ ] fix: Bug fix (correção de um problema)
+- [ ] feat: Nova funcionalidade (adição de um novo recurso)
+- [ ] refactor: Melhoria (refatoração, otimização, etc.)
+- [ ] docs: Documentação (apenas alterações na documentação)
+- [ ] style: Alterações de estilização, formatação etc.
+- [ ] perf: Alterações relacionadas à performance
+- [ ] test: Criação ou modificação de testes
+- [ ] chore: Alterações em arquivos de configuração, build, distribuição, CI, ou qualquer outra coisa que não envolva diretamente o código da aplicação para o usuário final
 - [ ] Outro (descreva abaixo)
 
 ## Problemas Relacionados
@@ -36,5 +40,17 @@ Ex: Closes #123, Fixes #456
 - [ ] Os testes unitários e de integração existentes foram aprovados localmente com minhas alterações.
 
 ## Contexto Adicional
-
 Adicione qualquer outro contexto ou screenshots sobre a Pull Request aqui.
+
+## Screenshots
+
+| Before | After |
+| ------ | ----- |
+| image  | image |
+
+## Dependências
+Esta solicitação de pull tem uma dependência das seguintes outras:
+
+- Link para a dependência  PR or N/A
+
+
