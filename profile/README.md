@@ -1,8 +1,6 @@
-<img
-    align="right"
-    height="500em"
-    src="https://raw.githubusercontent.com/gist/wanderleycabral-dev/a075744cf63286024ed6aa359c77fbc4/raw/fc63027629d65aeb72b4351c60e18e4fbb550e74/gitHub-card.svg"
-/>
+![project](/images/GitHub_image.png)
+
+---
 
 # Olá, Eu sou o Wanderley Cabral
 
@@ -59,7 +57,7 @@
 
 ## Conheça alguns dos projetos desenvolvidos para fixar conhecimento adquiridos na Faculdade
 
-<img align="left" src="project_image.png" alt="drawing" style="width:240px;"/>
+<img align="left" src="/images/project_image.png" alt="project image" style="width:240px;"/>
 
 <br clear="right" />
 
